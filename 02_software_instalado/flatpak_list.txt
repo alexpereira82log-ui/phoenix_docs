@@ -1,0 +1,20 @@
+Google Chrome	com.google.Chrome	149.0.7827.114-1	stable	user
+ZapZap	com.rtosta.zapzap	6.5.1	stable	user
+GitHub Desktop	io.github.shiftey.Desktop	3.4.13-linux1	stable	user
+Obsidian	md.obsidian.Obsidian	1.12.7	stable	system
+ChessMD	org.chessmd.chessmd	1.0.0	stable	user
+Freedesktop Platform	org.freedesktop.Platform	freedesktop-sdk-25.08.12	25.08	system
+Freedesktop Platform	org.freedesktop.Platform	freedesktop-sdk-25.08.12	25.08	user
+Mesa	org.freedesktop.Platform.GL.default	26.0.6	24.08	user
+Mesa (Extra)	org.freedesktop.Platform.GL.default	26.0.6	24.08extra	user
+Mesa	org.freedesktop.Platform.GL.default	26.0.6	25.08	system
+Mesa	org.freedesktop.Platform.GL.default	26.0.6	25.08	user
+Mesa (Extra)	org.freedesktop.Platform.GL.default	26.0.6	25.08-extra	system
+Mesa (Extra)	org.freedesktop.Platform.GL.default	26.0.6	25.08-extra	user
+Codecs Extra Extension	org.freedesktop.Platform.codecs-extra		25.08-extra	system
+Codecs Extra Extension	org.freedesktop.Platform.codecs-extra		25.08-extra	user
+openh264	org.freedesktop.Platform.openh264	2.5.1	2.5.1	user
+Pop Gtk theme	org.gtk.Gtk3theme.Pop-dark		3.22	system
+Pop Gtk theme	org.gtk.Gtk3theme.Pop-dark		3.22	user
+KDE Application Platform	org.kde.Platform		6.10	user
+KDE Application Platform	org.kde.Platform		6.9	user
